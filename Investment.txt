@@ -1,0 +1,59 @@
+Basic -> 89000
+HRA -> 44500
+Rent -> 30000
+
+
+Actual HRA -.> 44500
+50% of Basic -> 44500
+Rent - 10% of Basic -> 30000 - 8900 -> 26100
+
+
+26000 * 12 => 3,12,000
+
+
+PF -> 4500 + 1887 -> 6387
+Income Tax -> 9570+0 -> 9570
+PT -> 200+200 -> 400
+Income -> 85397+39709 -> 125106
+
+
+
+
+NPS:
+50% Equity
+25% Govt Securities
+25% Corporate
+
+
+
+
+Parag Parikh tax saver - 21.91 - 733 cr
+IDFC Tax advantage (ELSS) fund - 21.14 - 3851
+Mirae asset tax saver - 18.24 - 13,148
+UTI long term equity fund - 17.4 - 2997
+PGIM india long term equity - 17.18 - 415
+kotak tax saver - 17.13 - 2935
+SBI long term equity - 16.71 - 11,204
+dsp tax saver - 16.65 - 10,218
+icici prudential long term equity fund - 16.47 - 10,146
+hdfc tax saver - 15.11 - 9787
+tata india tax saving fund - 14.87 - 3118
+nipon india tax saver - 14.13 - 12,040
+invesco india tax plan - 13.8 - 1902
+edelwise long term equity fund - 13.48 - 204.64
+motilal oswal long term equity - 12.71 - 2,231
+axis long term equity - 11.56 - 32,654
+aditya birla sun life tax releif 96 - 9.17 - 14,200
+canara robeco equity tax saver direct growth - 16.66 - 
+
+axis long term equity - 11.56 - 32,654
+SBI long term equity - 16.71 - 11,204
+icici prudential long term equity fund - 16.47 - 10,146
+
+
+
+Parag Parikh tax saver - 21.91 - 733 cr
+canara robeco equity tax saver direct growth - 16.66 - 
+sbi
+IDFC Tax advantage (ELSS) fund - 21.14 - 3851
+UTI long term equity fund - 17.4 - 2997
